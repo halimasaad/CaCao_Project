@@ -1,2 +1,2 @@
 # CaCao_Project
-A project on analyzing CaCao, it's proportion in chocolate and their origin
+A project on analyzing CaCao flavors, their proportion in chocolate and their origin
